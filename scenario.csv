@@ -1,0 +1,11 @@
+zone_id,zone_name,damage_level,population_density,accessibility,casualty_count,population
+Z01,Alpha-Downtown,6.53,4.47,5.06,7.61,24359
+Z02,Bravo-Harbor,3.3,8.91,6.74,4.21,41464
+Z03,Charlie-Heights,7.6,6.65,6.12,5.99,30151
+Z04,Delta-Valley,8.06,8.08,4.0,6.36,39741
+Z05,Echo-Industrial,1.12,5.05,8.64,2.86,25393
+Z06,Foxtrot-Suburbs,2.67,3.32,7.62,3.84,18129
+Z07,Golf-Riverside,6.11,5.94,6.3,5.32,26697
+Z08,Hotel-OldTown,5.04,2.01,6.85,2.7,10476
+Z09,India-EastEnd,5.76,8.12,6.39,4.99,39594
+Z10,Juliet-NorthGate,3.75,6.55,7.86,4.93,33012
